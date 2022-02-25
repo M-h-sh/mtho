@@ -41,9 +41,9 @@ $(document).ready(function(){
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["MTHOKOZISI HECTOR HLATSHWAYO"],
-        typeSpeed: 40,
-        backSpeed: 60,
+        strings: ["I AM","MTHOKOZISI HECTOR HLATSHWAYO"],
+        typeSpeed: 30,
+        backSpeed: 30,
         loop: true
     });
     var typed = new Typed(".typing-3", {
