@@ -348,7 +348,7 @@ h3 {
 .resume .func .skills-soft ul li span {
   top: 40%;
 }
-.resume .func .interests-items {
+.resume .func .certificate-items {
   box-sizing: border-box;
   padding: 15px;
   width: 100%;
@@ -357,19 +357,19 @@ h3 {
   display: flex;
   justify-content: space-between;
 }
-.resume .func .interests-items div {
+.resume .func .certificate-items div {
   display: inline-block;
   width: 80px;
   height: 80px;
 }
-.resume .func .interests-items div:hover i {
+.resume .func .certificate-items div:hover i {
   transform: scale(1.2);
 }
-.resume .func .interests-items div:hover span {
+.resume .func .certificate-items div:hover span {
   color: #e07a5f;
   transition-duration: 0.3s;
 }
-.resume .func .interests-items div i {
+.resume .func .certificate-items div i {
   font-size: 45px;
   width: 60px;
   height: 60px;
@@ -377,16 +377,16 @@ h3 {
   color: #8d9e78;
   transition-duration: 0.3s;
 }
-.resume .func .interests-items div i.guitar {
+.resume .func .certificate-items div i.guitar {
   display: block;
   margin: 0 auto;
 }
-.resume .func .interests-items div i.guitar svg {
+.resume .func .certificate-items div i.guitar svg {
   width: 50px;
   height: 50px;
   margin-top: 5px;
   fill: #8d9e78;
 }
-.resume .func .interests-items div span {
+.resume .func .certificate-items div span {
   display: block;
 }
